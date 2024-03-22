@@ -3,3 +3,4 @@ Meu respositório pessoal para a disciplina Gerência de configuração e mundan
 
 ## Colaboradores
 * Rodrigo Lopes( @rodrigolsouza, dono)
+* Ramide Dantas (@ramidedantas)

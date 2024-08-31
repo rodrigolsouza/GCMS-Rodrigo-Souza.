@@ -1,0 +1,4 @@
+o PASSO 7 DA PARTE 2 FOI REALIZADO EM PARALELO COM A PARTE 1 DA PRATICA 5 (SOBRE JENKINGS) 
+Passo 7: Realize mais modificações, faça commits, e depois dê push no repositório remoto.
+
+COM O ADICIONAL DESSE DOCUMENTO QUE EXPLICA O QUE OCORREU.
